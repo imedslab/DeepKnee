@@ -10,6 +10,9 @@ Proceedings of the IEEE International Conference on Computer Vision Workshops. 2
 "Automatic knee osteoarthritis diagnosis from plain radiographs: A deep learning-based approach." 
 Scientific reports 8.1 (2018): 1727.
 
+The technology was also validated on external data in this paper:
+- Vaattovaara, E., Panfilov, E., Tiulpin, A., Niinimäki, T., Niinimäki, J., Saarakkala, S., & Nevalainen, M. T. (2025). Kellgren-Lawrence Grading of Knee Osteoarthritis using Deep Learning: Diagnostic Performance with External Dataset and Comparison with Four Readers. Osteoarthritis and Cartilage Open, 100580.
+
 # Authors
 The whole package was built by Aleksei Tiulpin (@lext). Egor Panfilov (@soupault)
 has built most of DeepKnee v1: https://github.com/MIPT-Oulu/DeepKnee-web (archived). 
